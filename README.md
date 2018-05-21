@@ -14,7 +14,7 @@ npm i wx-cli
 wx add
 
 > ? Template name:  wx-cli
-> ? Git https link:  https://github.com/glangzh/wx-cli
+> ? Git https link:  https://github.com/glangzh/wx-cli.git
 > ? Branch:  master
 ```
 * 查看模板列表
