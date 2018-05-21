@@ -1,20 +1,20 @@
-# wx-progress 
+# wxz-cli 
 
 > 一个简易的前端脚手架工具
  [![tests](https://travis-ci.org/glangzh/wx-cli.svg?branch=master)](http://travis-ci.org/glangzh/wx-cli)
- [![npm](https://img.shields.io/npm/v/wx-cli.svg?style=flat-square)](https://www.npmjs.com/package/wx-cli) [![npm](https://img.shields.io/npm/dt/wx-cli.svg?style=flat-square)](https://www.npmjs.com/package/wx-cli) [![npm](https://img.shields.io/npm/l/wx-cli.svg?style=flat-square)](https://www.npmjs.com/package/wx-cli)
+ [![npm](https://img.shields.io/npm/v/wxz-cli.svg?style=flat-square)](https://www.npmjs.com/package/wxz-cli) [![npm](https://img.shields.io/npm/dt/wxz-cli.svg?style=flat-square)](https://www.npmjs.com/package/wxz-cli) [![npm](https://img.shields.io/npm/l/wxz-cli.svg?style=flat-square)](https://www.npmjs.com/package/wxz-cli)
 
 ## 使用方法
 * 安装
 ```javascript
-npm i wx-cli
+npm i wxz-cli
 ```
 * 添加模板
 ```javascript
 wx add
 
 > ? Template name:  wx-cli
-> ? Git https link:  https://github.com/glangzh/wx-cli
+> ? Git https link:  https://github.com/glangzh/wxz-cli.git
 > ? Branch:  master
 ```
 * 查看模板列表
