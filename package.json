@@ -7,8 +7,6 @@
     "type": "git",
     "url": "https://github.com/glangzh/wx-cli"
   },
-  "scripts": {
-  },
   "keywords": [
     "wx-cli",
     "wxz-cli",
